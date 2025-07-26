@@ -20,3 +20,7 @@ A simple and fun Tic Tac Toe (X and O) game created using HTML, CSS, and JavaScr
 3. Click on any empty box to make your move.
 4. The game will automatically show the winner or declare a draw.
 5. Click the **Reset** button to play again.
+
+## 📷 Screenshot
+<img width="1199" height="717" alt="Screenshot 2025-07-26 112311" src="https://github.com/user-attachments/assets/5b78da07-7113-4a27-960a-81b1d71bbb5f" />
+
