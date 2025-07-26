@@ -1,2 +1,22 @@
-# tic-tac-toe-game
-A classic Tic Tac Toe game built using HTML, CSS, and JavaScript with interactive gameplay for two players.
+# Tic Tac Toe Game 🎮
+
+A simple and fun Tic Tac Toe (X and O) game created using HTML, CSS, and JavaScript. Two players can take turns to play on a 3×3 grid with automatic win detection and game reset features.
+
+## 🔥 Features
+- Two-player mode
+- Interactive 3×3 game board
+- Win and draw detection
+- Reset/Restart game button
+- Responsive UI
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 How to Play
+1. Open the game in your browser.
+2. Player X starts first, then player O.
+3. Click on any empty box to make your move.
+4. The game will automatically show the winner or declare a draw.
+5. Click the **Reset** button to play again.
