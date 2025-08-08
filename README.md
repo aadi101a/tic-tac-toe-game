@@ -26,3 +26,7 @@ A simple and fun Tic Tac Toe (X and O) game created using HTML, CSS, and JavaScr
 
 ## 🎥 Demo Video
 https://github.com/user-attachments/assets/d2622ec9-1f5f-438e-a46c-696052dd96d9
+
+##  Live Demo
+[Play the Tic Tac Toe Game](https://aadi101a.github.io/tic-tac-toe-game/)
+
